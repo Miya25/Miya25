@@ -11,7 +11,7 @@ https://discord.com/users/787241442770419722" />
 
 </p>
 
-```Hi, I’m RanveerSoni. I’m a web developer living in India. I am a fan of technology and web development. I’m also interested in programming```
+```Hi, I’m RanveerSoni. I’m a web developer living in India. I am a fan of technology and web development. I’m also interested in programing```
 
 ## 🚀 Know Languages & How to use?:
 
