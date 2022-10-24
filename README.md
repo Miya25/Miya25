@@ -19,6 +19,8 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
 
 <br />
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/787241442770419722)](https://discord.com/users/787241442770419722)
+
+
+# [![Discord Presence](https://lanyard.cnrad.dev/api/787241442770419722)](https://discord.com/users/787241442770419722)
 
 
