@@ -19,11 +19,9 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
 
 <br />
 
-## Coders Rank 
+## Coders Rank:
   <br />
     <div>
-        <h2 align="center">Are they bad?</h2>
-        <br />
         <p align="center">
             <a href="https://profile.codersrank.io/user/miya25">
               <img
