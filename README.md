@@ -19,18 +19,17 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
 
 <br />
 
-<details>
   <summary> Coders Rank </summary>
     <div>
         <h2 align="center">Are they bad?</h2>
         <br />
         <p align="center">
             <a href="https://profile.codersrank.io/user/miya25">
-                <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Miya25" />
+              <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=miya25&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
             </a>
         </p>
     </div>
-</details>
 
 
 
