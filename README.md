@@ -26,7 +26,7 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
         <p align="center">
             <a href="https://profile.codersrank.io/user/miya25">
               <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=miya25&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=miya25"/>
             </a>
         </p>
     </div>
