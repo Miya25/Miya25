@@ -7,7 +7,7 @@
 
 <div align="left" width="100%">
    
-## 🧐 About
+## About
 Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://topiclist.xyz
  
 <br />
@@ -18,6 +18,19 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
 </div>
 
 <br />
+
+<details>
+  <summary> Coders Rank </summary>
+    <div>
+        <h2 align="center">Are they bad?</h2>
+        <br />
+        <p align="center">
+            <a href="https://profile.codersrank.io/user/miya25">
+                <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=miya25" />
+            </a>
+        </p>
+    </div>
+</details>
 
 
 
