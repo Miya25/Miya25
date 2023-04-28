@@ -19,7 +19,7 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
 
 <br />
 
-  <summary> Coders Rank </summary>
+## Coders Rank 
   <br />
     <div>
         <h2 align="center">Are they bad?</h2>
@@ -31,8 +31,6 @@ Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://t
             </a>
         </p>
     </div>
-
-
 
 # [![Discord Presence](https://lanyard.cnrad.dev/api/787241442770419722)](https://discord.com/users/787241442770419722)
 
