@@ -14,7 +14,7 @@ Hi! I am Miya and I like to make new friends and code <3. I also Own https://top
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=java,css,html,docker,discord,net,r,rust,tailwind,github,git,cloudflare,astro,pug,go,nodejs,nextjs,mongodb,nodejs,react,redis,tailwind,ts,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,css,html,docker,discord,net,r,rust,tailwind,github,git,cloudflare,astro,pug,go,nodejs,nextjs,mongodb,react,redis,tailwind,ts,vscode&theme=dark" />
 </div>
 
 <br />
