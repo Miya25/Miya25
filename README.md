@@ -8,7 +8,7 @@
 <div align="left" width="100%">
    
 ## About
-Hi! I am RanveerAnd I like to make new friends and code <3. I also Own https://topiclist.xyz
+Hi! I am Miya and I like to make new friends and code <3. I also Own https://topiclist.xyz
  
 <br />
    
