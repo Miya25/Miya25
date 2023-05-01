@@ -8,7 +8,7 @@
 <div align="left" width="100%">
    
 ## About
-Hi! I am Maya and I like to make new friends and code <3. I also Own https://topiclist.xyz
+Hi! I am Maya and I like to make new friends and code <33. I also Own @TopicBotList so be sure to check it out!!
  
 <br />
    
