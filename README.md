@@ -14,7 +14,7 @@ Hi! I am Maya and I like to make new friends and code <33. I also Own https://to
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=java,css,html,docker,discord,net,r,rust,tailwind,github,git,cloudflare,astro,pug,go,nodejs,nextjs,mongodb,react,redis,tailwind,ts,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,css,html,docker,discord,net,r,rust,tailwind,github,git,lua,cloudflare,astro,pug,go,nodejs,nextjs,mongodb,react,redis,tailwind,ts,vscode&theme=dark" />
 </div>
 
 <br />
