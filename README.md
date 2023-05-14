@@ -29,6 +29,8 @@ Hi! I am Maya and I like to make new friends and code <33. I also Own https://to
             </a>
         </p>
     </div>
+    
+# [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miya25&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Miya25)
 
 # [![Discord Presence](https://lanyard.cnrad.dev/api/787241442770419722)](https://discord.com/users/787241442770419722)
 
