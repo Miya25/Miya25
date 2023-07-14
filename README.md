@@ -24,9 +24,9 @@ Hi! I am Maya and I like to make new friends and code <33. I also Own https://to
     <div>
         <p align="center">
             <a href="https://profile.codersrank.io/user/Miya25">
-                <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Miya25&badge=3" />
+                <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Miya25" />
             </a>
-          </p>
+        </p>
     </div>
 
 ## Github Stats:
