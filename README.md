@@ -33,6 +33,6 @@ Hi! I am Maya and I like to make new friends and code <33. I also Own https://to
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miya25&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/Miya25)
 
 ## Discord Presence
-<img width="40%" align="bottom-left" src="https://luppufy.onrender.com/member/787241442770419722?border=ffc0cb&theme=e75480">
+<img width="40%" align="bottom-left" src="https://luppufy-api.onrender.com/member/787241442770419722?border=ffc0cb&theme=e75480">
 
 
