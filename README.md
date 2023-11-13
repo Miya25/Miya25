@@ -1,8 +1,8 @@
 # Hi 👋
 
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://x.com/ranveersoni98)](https://x.com/ranveersoni98)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black&link=https://instagram.com/mayarosina98)](https://instagram.com/mayarosina98)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=black&link=https://x.com/ranveersoni98)](https://x.com/ranveersoni98)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=black&link=https://instagram.com/mayarosina98)](https://instagram.com/mayarosina98)
 
 <img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=miya25&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 
