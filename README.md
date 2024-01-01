@@ -13,6 +13,17 @@ Hi! I'm Ranveer Soni or Maya - Indian, passionate about coding & entrepreneurshi
 * 🧠  I'm learning AI
 * 🤝  I'm open to collaborating on Projects like AI stuff and Web Development
 
+    <div>
+        <samp>
+            <h2 align="center">My discord profile:</h2>
+            <p align="center">
+                <a href="https://discord.com/users/787241442770419722">
+                  <img src="https://lanyard-profile-readme.vercel.app/api/787241442770419722?bg=0C0032" alt="Discord Profile"/>
+                </a>
+            </p>
+        </samp>
+    </div>
+
 ### ⚙️ Technologies I use
    
 <img src="https://skillicons.dev/icons?i=java,css,html,docker,discord,net,cassandra,rust,tailwind,github,git,lua,cloudflare,astro,pug,go,nodejs,nextjs,mongodb,react,redis,tailwind,ts,twitter,vscode,visualstudio,vim,express,vue,linux,markdown,materialui,mysql,netlify,nginx,nuxtjs,c,cpp,aws,raspberrypi,googlecloud,replit,vercel,remix&theme=dark" />
