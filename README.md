@@ -10,7 +10,7 @@ Hi! I'm Ranveer Soni or Maya - Indian, passionate about coding & entrepreneurshi
 * 🖥️  See my portfolio at [Portfolio](http://maya25-me.vercel.app)
 * ✉️  You can contact me at [ranveersonirobotic123@gmail.com](mailto:ranveersonirobotic123@gmail.com)
 * 🚀  I'm currently working on [Topic](http://topiclist.xyz)
-* 🧠  I'm learning AI
+* 🧠  I'm learning about AI
 * 🤝  I'm open to collaborating on Projects like AI stuff and Web Development
 
     <div>
