@@ -26,7 +26,7 @@ Hi! I'm Ranveer Soni or Maya - Indian, passionate about coding & entrepreneurshi
 
 ### ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=java,css,html,discord,net,cassandra,tailwind,github,git,lua,cloudflare,go,nodejs,nextjs,mongodb,react,tailwind,ts,twitter,vscode,visualstudio,express,linux,windows,markdown,materialui,netlify,nginx,c,cpp,aws,raspberrypi,googlecloud,replit,vercel,remix&theme=dark" />
+<img src="https://skillicons.dev/icons?i=css,html,discord,github,git,lua,cloudflare,go,yarn,npm,nodejs,express,mongodb,cassandra,react,nextjs,materialui,tailwind,ts,js,twitter,vscode,visualstudio,linux,ubuntu,windows,raspberrypi,markdown,nginx,c,cpp,aws,netlify,googlecloud,replit,vercel,remix&theme=dark" />
 </div>
 
 <br />
