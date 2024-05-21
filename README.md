@@ -9,7 +9,7 @@ Hi! I'm Ranveer Soni or Maya - Indian, passionate about coding & entrepreneurshi
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](http://maya25-me.vercel.app)
 * ✉️  You can contact me at [ranveersonirobotic123@gmail.com](mailto:ranveersonirobotic123@gmail.com)
-* 🚀  I'm currently working on [Topic](http://topiclist.xyz)
+* 🚀  I'm currently working on [NetSocial](http://netsocial.app)
 * 🧠  I'm learning about AI
 * 🤝  I'm open to collaborating on Projects like AI stuff and Web Development
 
