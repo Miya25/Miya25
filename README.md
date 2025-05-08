@@ -8,7 +8,7 @@ Hi! I'm Ranveer Soni or Maya - Indian, passionate about coding & entrepreneurshi
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Portfolio](https://ranveersoni.me/)
-* ✉️  You can contact me at [ranveersonirobotic123@gmail.com](mailto:contact@ranveersoni.me)
+* ✉️  You can contact me at [contact@ranveersoni.me](mailto:contact@ranveersoni.me)
 * 🧠  I'm learning about AI
 * 🤝  I'm open to collaborating on Projects like AI stuff and Web Development
 
